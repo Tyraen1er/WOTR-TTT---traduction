@@ -1,0 +1,762 @@
+﻿* **1 day** : 1 day
+* **1 jour/niveau** : 1 jour/niveau
+* **1 minute** : 1 minute
+* **1 Minute** : 1 Minute
+* **1 minute/niveau** : 1 minute/niveau
+* **1 round** : 1 round
+* **1 round/4 niveaux** : 1 round/4 niveaux
+* **1 round/5 niveaux** : 1 round/5 niveaux
+* **1 round/grade mythique** : 1 round/grade mythique
+* **1 round/int mod** : 1 round/int mod
+* **1 round/niveau ou jusqu'à déchargement** : 1 round/niveau ou jusqu'à déchargement
+* **1 round/niveau** : 1 round/niveau
+* **10 minutes/niveau** : 10 minutes/niveau
+* **10 rounds** : 10 rounds
+* **24 heures** : 24 heures
+* **Aberrant** : Aberrant
+* **Abondance de ferveur** : Abondance de ferveur
+* **Acérée** : Acérée
+* **Acidic Ray** : Acidic Ray
+* **Adamantium** : Adamantium
+* **Adepte de la lame** : Adepte de la lame
+* **Advanced Talent** : Advanced Talent
+* **Affinité alchimique** : Affinité alchimique
+* **Affinité énergétique — Électricité** : Affinité énergétique — Électricité
+* **Affinité énergétique — Feu** : Affinité énergétique — Feu
+* **Affinité énergétique — Force** : Affinité énergétique — Force
+* **Affinité énergétique — Froid** : Affinité énergétique — Froid
+* **Affinité énergétique — Son** : Affinité énergétique — Son
+* **Affinité énergétique** : Affinité énergétique
+* **Agile** : Agile
+* **Alien Resistance** : Alien Resistance
+* **Allié Animal** : Allié Animal
+* **Allonge anormale** : Allonge anormale
+* **Amélioration du Compagnon Animal** : Amélioration du Compagnon Animal
+* **Anarchique** : Anarchique
+* **Anatomie inhabituelle** : Anatomie inhabituelle
+* **Apothéose** : Apothéose
+* **Applies Gibber Immunity** : Applies Gibber Immunity
+* **Applies Gibber Queen Immunity** : Applies Gibber Queen Immunity
+* **Apply Gibber Immunity** : Apply Gibber Immunity
+* **Apply Gibber Queen Immunity** : Apply Gibber Queen Immunity
+* **Aptitude magique** : Aptitude magique
+* **Arcane supplémentaire (Mage maléfique)** : Arcane supplémentaire (Mage maléfique)
+* **Arcane supplémentaire (Rejeton étrange)** : Arcane supplémentaire (Rejeton étrange)
+* **Arcane supplémentaire** : Arcane supplémentaire
+* **Arcanes du Lignage Voué à un grand destin** : Arcanes du Lignage Voué à un grand destin
+* **Arcaniste** : Arcaniste
+* **Arme focalisée** : Arme focalisée
+* **Arme profane — Explosion de feu** : Arme profane — Explosion de feu
+* **Arme profane — Explosion électrique** : Arme profane — Explosion électrique
+* **Arme profane — Explosion glacée** : Arme profane — Explosion glacée
+* **Armure intermédiaire mythique — Assaut** : Armure intermédiaire mythique — Assaut
+* **Armure intermédiaire mythique — Endurance** : Armure intermédiaire mythique — Endurance
+* **Armure intermédiaire mythique — Esquive** : Armure intermédiaire mythique — Esquive
+* **Armure légère mythique — Assaut** : Armure légère mythique — Assaut
+* **Armure légère mythique — Endurance** : Armure légère mythique — Endurance
+* **Armure légère mythique — Esquive** : Armure légère mythique — Esquive
+* **Armure lourde mythique — Assaut** : Armure lourde mythique — Assaut
+* **Armure lourde mythique — Endurance** : Armure lourde mythique — Endurance
+* **Armure lourde mythique — Esquive** : Armure lourde mythique — Esquive
+* **Armure naturelle améliorée** : Armure naturelle améliorée
+* **Artisan gnome** : Artisan gnome
+* **Astuce magique (Boule de feu)** : Astuce magique (Boule de feu)
+* **Athlète gracieux** : Athlète gracieux
+* **Attaque sanglante** : Attaque sanglante
+* **Aucun trait alternatif** : Aucun trait alternatif
+* **Aucun** : Aucun
+* **Augmentation de l'ego de la lame noire** : Augmentation de l'ego de la lame noire
+* **Augmentation d'intensité** : Augmentation d'intensité
+* **Axiomatique** : Axiomatique
+* **Baiser de la lune** : Baiser de la lune
+* **Bénédiction d'Erastil** : Bénédiction d'Erastil
+* **Bénédiction impossible** : Bénédiction impossible
+* **Bénédiction profuse** : Bénédiction profuse
+* **Bénédictions améliorées** : Bénédictions améliorées
+* **Béni** : Béni
+* **Bête sainte** : Bête sainte
+* **Bête supérieure** : Bête supérieure
+* **Bloodline Feat Selection** : Bloodline Feat Selection
+* **Bombes profuses** : Bombes profuses
+* **Boule de feu — Bombe à fragmentation** : Boule de feu — Bombe à fragmentation
+* **Bras longs** : Bras longs
+* **Brèche mystique** : Brèche mystique
+* **Brûlant** : Brûlant
+* **Buveuse de vie — Lame** : Buveuse de vie — Lame
+* **Buveuse de vie — Partage (Arcaniste)** : Buveuse de vie — Partage (Arcaniste)
+* **Buveuse de vie — Partage (Magus)** : Buveuse de vie — Partage (Magus)
+* **Buveuse de vie — Porteur** : Buveuse de vie — Porteur
+* **Buveuse de vie PV temporaires** : Buveuse de vie PV temporaires
+* **Buveuse de vie** : Buveuse de vie
+* **Canalisateur de l'inconnu** : Canalisateur de l'inconnu
+* **Canalisation améliorée** : Canalisation améliorée
+* **Canalisation de l'entropie** : Canalisation de l'entropie
+* **Capacité Requise Lignage Aberrant** : Capacité Requise Lignage Aberrant
+* **Capacité ultime de lignage** : Capacité ultime de lignage
+* **Caustique ancien** : Caustique ancien
+* **Caustique supérieur ancien** : Caustique supérieur ancien
+* **Caustique** : Caustique
+* **Celestial Template** : Celestial Template
+* **Champion croisé** : Champion croisé
+* **Channeler Of The Unknown** : Channeler Of The Unknown
+* **Charge à la lance** : Charge à la lance
+* **Charisma** : Charisma
+* **Chaudron** : Chaudron
+* **Cherche-cœur** : Cherche-cœur
+* **Chercheur** : Chercheur
+* **Choix de la lame noire** : Choix de la lame noire
+* **Cimeterre** : Cimeterre
+* **Class Skill — Knowledge (World)** : Class Skill — Knowledge (World)
+* **Cœur vaillant** : Cœur vaillant
+* **Cogneur halfelin** : Cogneur halfelin
+* **Cold Flesh** : Cold Flesh
+* **Commandeur divin** : Commandeur divin
+* **Compréhension des sorts élargie — Druide** : Compréhension des sorts élargie — Druide
+* **Compréhension des sorts élargie — Sorcière** : Compréhension des sorts élargie — Sorcière
+* **Compréhension des sorts élargie** : Compréhension des sorts élargie
+* **Compréhension des Sorts profuse** : Compréhension des Sorts profuse
+* **Compréhension supérieure** : Compréhension supérieure
+* **Conditions requises pour le lignage** : Conditions requises pour le lignage
+* **Conférencier** : Conférencier
+* **Confiance blindée** : Confiance blindée
+* **Connaissance de la métamagie supérieure** : Connaissance de la métamagie supérieure
+* **Connaissance de la métamagie** : Connaissance de la métamagie
+* **Constitution** : Constitution
+* **Conversion d'énergie — Acide** : Conversion d'énergie — Acide
+* **Conversion d'énergie — Électricité** : Conversion d'énergie — Électricité
+* **Conversion d'énergie — Feu** : Conversion d'énergie — Feu
+* **Conversion d'énergie — Froid** : Conversion d'énergie — Froid
+* **Conversion d'énergie** : Conversion d'énergie
+* **Corrosif** : Corrosif
+* **Coup chancelant** : Coup chancelant
+* **Coup critique maximisé** : Coup critique maximisé
+* **Coups déstabilisants** : Coups déstabilisants
+* **Création d'objet** : Création d'objet
+* **Cruel** : Cruel
+* **Curieux** : Curieux
+* **Danse du derviche** : Danse du derviche
+* **De feu ancien** : De feu ancien
+* **De feu intense** : De feu intense
+* **De feu** : De feu
+* **De froid ancien** : De froid ancien
+* **De froid supérieur** : De froid supérieur
+* **De froid** : De froid
+* **De maître** : De maître
+* **Découverte arcanique** : Découverte arcanique
+* **Découverte médicale supplémentaire** : Découverte médicale supplémentaire
+* **Découverte supplémentaire** : Découverte supplémentaire
+* **Défense contre les sorts** : Défense contre les sorts
+* **Défi en série** : Défi en série
+* **Défis en chaîne** : Défis en chaîne
+* **Destinée** : Destinée
+* **Destiny Realized** : Destiny Realized
+* **Détériorant** : Détériorant
+* **Déviation de critique** : Déviation de critique
+* **Dexterity** : Dexterity
+* **Dire Prophecy Cooldown** : Dire Prophecy Cooldown
+* **Dire Prophecy** : Dire Prophecy
+* **Disjoint** : Disjoint
+* **Disjonction** : Disjonction
+* **Dissipation de prédilection supérieure** : Dissipation de prédilection supérieure
+* **Dissipation de prédilection** : Dissipation de prédilection
+* **Don mythique supplémentaire** : Don mythique supplémentaire
+* **Dons bonus** : Dons bonus
+* **Douleur lancinante de groupe** : Douleur lancinante de groupe
+* **Douleur lancinante** : Douleur lancinante
+* **Dresseur expert** : Dresseur expert
+* **Du froid** : Du froid
+* **Éblouissant** : Éblouissant
+* **Effet de Confiance blindée** : Effet de Confiance blindée
+* **Effet de Mastodonte en armure** : Effet de Mastodonte en armure
+* **Électrique ancien** : Électrique ancien
+* **Électrique intense ancien** : Électrique intense ancien
+* **Élémentaire — Acide** : Élémentaire — Acide
+* **Élémentaire — Électricité** : Élémentaire — Électricité
+* **Élémentaire — Feu** : Élémentaire — Feu
+* **Élémentaire — Froid** : Élémentaire — Froid
+* **Elfe fierani** : Elfe fierani
+* **Encens profus** : Encens profus
+* **Enchaînement (Mythique)** : Enchaînement (Mythique)
+* **Encourageant** : Encourageant
+* **Énergie brillante** : Énergie brillante
+* **Ensorceleur** : Ensorceleur
+* **Entangled** : Entangled
+* **Entrainement aux armes avancé** : Entrainement aux armes avancé
+* **Entraînement aux armures avancé** : Entraînement aux armures avancé
+* **Entraînement aux armures Vitesse** : Entraînement aux armures Vitesse
+* **Entraînement aux armures** : Entraînement aux armures
+* **Entraînement défensif aux armes** : Entraînement défensif aux armes
+* **Entropic Template** : Entropic Template
+* **Épée bâtarde** : Épée bâtarde
+* **Épée courte** : Épée courte
+* **Épée de duel** : Épée de duel
+* **Épée longue** : Épée longue
+* **Équilibré** : Équilibré
+* **Esprit d'adamantium** : Esprit d'adamantium
+* **Étude approfondie — Arcaniste** : Étude approfondie — Arcaniste
+* **Étude approfondie — Barde** : Étude approfondie — Barde
+* **Étude approfondie — Chaman** : Étude approfondie — Chaman
+* **Étude approfondie — Chasseur** : Étude approfondie — Chasseur
+* **Étude approfondie — Druide** : Étude approfondie — Druide
+* **Étude approfondie — Ensorceleur** : Étude approfondie — Ensorceleur
+* **Étude approfondie — Inquisiteur** : Étude approfondie — Inquisiteur
+* **Étude approfondie — Magicien** : Étude approfondie — Magicien
+* **Étude approfondie — Oracle** : Étude approfondie — Oracle
+* **Étude approfondie — Paladin** : Étude approfondie — Paladin
+* **Étude approfondie — Prêtre combattant** : Étude approfondie — Prêtre combattant
+* **Étude approfondie — Prêtre** : Étude approfondie — Prêtre
+* **Étude approfondie — Rôdeur** : Étude approfondie — Rôdeur
+* **Étude approfondie — Roublard** : Étude approfondie — Roublard
+* **Étude approfondie — Sanguin** : Étude approfondie — Sanguin
+* **Étude approfondie — scalde** : Étude approfondie — scalde
+* **Étude approfondie — Sorcière** : Étude approfondie — Sorcière
+* **Étude approfondie** : Étude approfondie
+* **Étude rapide** : Étude rapide
+* **Évolution de l'Allié Animal** : Évolution de l'Allié Animal
+* **Expertise du combat (Mythique)** : Expertise du combat (Mythique)
+* **Exploitation d'arcaniste supplémentaire** : Exploitation d'arcaniste supplémentaire
+* **Explosion de feu** : Explosion de feu
+* **Explosion électrique** : Explosion électrique
+* **Explosion glacée** : Explosion glacée
+* **Explosion** : Explosion
+* **Falcata** : Falcata
+* **Familier** : Familier
+* **Fated** : Fated
+* **Faucille** : Faucille
+* **Fente avec sort de contact (Amélioration)** : Fente avec sort de contact (Amélioration)
+* **Fente avec sort de contact** : Fente avec sort de contact
+* **Fiendish Template** : Fiendish Template
+* **Fighter Training Upgrade** : Fighter Training Upgrade
+* **Fighter Training** : Fighter Training
+* **Fléau de la vermine** : Fléau de la vermine
+* **Fléau** : Fléau
+* **Focalisation profane** : Focalisation profane
+* **Forme aberrante** : Forme aberrante
+* **Fortification légère** : Fortification légère
+* **Fortification lourde** : Fortification lourde
+* **Fortification** : Fortification
+* **Fortitude partial/Relex half** : Fortitude partial/Relex half
+* **Foulée ample** : Foulée ample
+* **Frappe assurée** : Frappe assurée
+* **Frappe de la destinée** : Frappe de la destinée
+* **Frappe de la lame noire** : Frappe de la lame noire
+* **Frappe enhardissante** : Frappe enhardissante
+* **Frappes intenses** : Frappes intenses
+* **Freezing Spells Effect** : Freezing Spells Effect
+* **Fureur animale supérieure** : Fureur animale supérieure
+* **Fureur divine** : Fureur divine
+* **Furieux** : Furieux
+* **Glacial ancien** : Glacial ancien
+* **Gnome perspicace** : Gnome perspicace
+* **Grâce supplémentaire** : Grâce supplémentaire
+* **Greater Spell Specialization** : Greater Spell Specialization
+* **Greater Stunning Barrier** : Greater Stunning Barrier
+* **Griffes bénies — Bon** : Griffes bénies — Bon
+* **Griffes bénies — Chaotique** : Griffes bénies — Chaotique
+* **Griffes bénies — Loyal** : Griffes bénies — Loyal
+* **Griffes bénies — Mauvais** : Griffes bénies — Mauvais
+* **Griffes bénies** : Griffes bénies
+* **Hache d'armes** : Hache d'armes
+* **Hache de guerre naine** : Hache de guerre naine
+* **Hachette** : Hachette
+* **Idéalisation supérieure** : Idéalisation supérieure
+* **Idéalisation** : Idéalisation
+* **Imposition des mains en série** : Imposition des mains en série
+* **Improved Stalwart** : Improved Stalwart
+* **Inarrêtable** : Inarrêtable
+* **Incantation spontanée** : Incantation spontanée
+* **Incinération ancienne** : Incinération ancienne
+* **Incinération** : Incinération
+* **Inconvénients de sang-mêlé** : Inconvénients de sang-mêlé
+* **Increased Damage Multiplier** : Increased Damage Multiplier
+* **Intelligence** : Intelligence
+* **Interruption** : Interruption
+* **Invulnérabilité** : Invulnérabilité
+* **It Was Meant To Be (+1 Uses)** : It Was Meant To Be (+1 Uses)
+* **It Was Meant To Be** : It Was Meant To Be
+* **Jusqu'à la mort de la cible du châtiment** : Jusqu'à la mort de la cible du châtiment
+* **Kama** : Kama
+* **Ki supplémentaire** : Ki supplémentaire
+* **Kukri** : Kukri
+* **La victoire ou la mort** : La victoire ou la mort
+* **La voie du maître** : La voie du maître
+* **Lame légendaire** : Lame légendaire
+* **Lame liée (TTT)** : Lame liée (TTT)
+* **Lame noire** : Lame noire
+* **Le savoir, c'est le pouvoir** : Le savoir, c'est le pouvoir
+* **Lien élémentaire (Air)** : Lien élémentaire (Air)
+* **Lien élémentaire (Eau)** : Lien élémentaire (Eau)
+* **Lien élémentaire (Feu)** : Lien élémentaire (Feu)
+* **Lien élémentaire (Terre)** : Lien élémentaire (Terre)
+* **Lien élémentaire** : Lien élémentaire
+* **Lignage Aberrant Arcana** : Lignage Aberrant Arcana
+* **Lignage Aberrant** : Lignage Aberrant
+* **Lignage Abyssal** : Lignage Abyssal
+* **Lignage Arcanique** : Lignage Arcanique
+* **Lignage céleste** : Lignage céleste
+* **Lignage de l'héritier draconique** : Lignage de l'héritier draconique
+* **Lignage de sanguin** : Lignage de sanguin
+* **Lignage d'Ensorceleur** : Lignage d'Ensorceleur
+* **Lignage draconique — Airain** : Lignage draconique — Airain
+* **Lignage draconique — Argent** : Lignage draconique — Argent
+* **Lignage draconique — Blanc** : Lignage draconique — Blanc
+* **Lignage draconique — Bleu** : Lignage draconique — Bleu
+* **Lignage draconique — Bronze** : Lignage draconique — Bronze
+* **Lignage draconique — Cuivre** : Lignage draconique — Cuivre
+* **Lignage draconique — Noir** : Lignage draconique — Noir
+* **Lignage draconique — Or** : Lignage draconique — Or
+* **Lignage draconique — Rouge** : Lignage draconique — Rouge
+* **Lignage draconique — Vert** : Lignage draconique — Vert
+* **Lignage du disciple draconien** : Lignage du disciple draconien
+* **Lignage du rejeton étrange** : Lignage du rejeton étrange
+* **Lignage élémentaire — Air** : Lignage élémentaire — Air
+* **Lignage élémentaire — Eau** : Lignage élémentaire — Eau
+* **Lignage élémentaire — Feu** : Lignage élémentaire — Feu
+* **Lignage élémentaire — Terre** : Lignage élémentaire — Terre
+* **Lignage féérique** : Lignage féérique
+* **Lignage infernal** : Lignage infernal
+* **Lignage Voué à un grand destin** : Lignage Voué à un grand destin
+* **Lignage** : Lignage
+* **Long Limbs** : Long Limbs
+* **Mage harmonieux** : Mage harmonieux
+* **Magie sinistre** : Magie sinistre
+* **Magie utilitaire** : Magie utilitaire
+* **Magie** : Magie
+* **Maître de meute** : Maître de meute
+* **Maître des armures (armure intermédiaire)** : Maître des armures (armure intermédiaire)
+* **Maître des armures (armure légère)** : Maître des armures (armure légère)
+* **Maître des armures (armure lourde)** : Maître des armures (armure lourde)
+* **Maître des armures (Tabletop)** : Maître des armures (Tabletop)
+* **Maître des armures** : Maître des armures
+* **Maîtrise d'arme supplémentaire** : Maîtrise d'arme supplémentaire
+* **Maîtrise de la monte** : Maîtrise de la monte
+* **Maîtrise des armes (Bardiche)** : Maîtrise des armes (Bardiche)
+* **Maîtrise des armes (Brise-terre)** : Maîtrise des armes (Brise-terre)
+* **Maîtrise des armures** : Maîtrise des armures
+* **Maîtrises du canalisateur de l'inconnu** : Maîtrises du canalisateur de l'inconnu
+* **Maléfice maudit (mythique)** : Maléfice maudit (mythique)
+* **Maléfice maudit** : Maléfice maudit
+* **Maléfice supplémentaire (Chaman)** : Maléfice supplémentaire (Chaman)
+* **Maléfice supplémentaire (Sorcière)** : Maléfice supplémentaire (Sorcière)
+* **Manteau des vents** : Manteau des vents
+* **Marteau de Dieu** : Marteau de Dieu
+* **Masse abyssale** : Masse abyssale
+* **Mastodonte en armure** : Mastodonte en armure
+* **Metamagic (Piercing Spell)** : Metamagic (Piercing Spell)
+* **Metamagic (Rime Spell)** : Metamagic (Rime Spell)
+* **Metamagic (Solid Shadows)** : Metamagic (Solid Shadows)
+* **Métamagie (Augmentation d'intensité)** : Métamagie (Augmentation d'intensité)
+* **Métamagie (Sort brûlant)** : Métamagie (Sort brûlant)
+* **Métamagie (Sort éblouissant)** : Métamagie (Sort éblouissant)
+* **Métamagie (Sort élémentaire — Acide)** : Métamagie (Sort élémentaire — Acide)
+* **Métamagie (Sort élémentaire — Électricité)** : Métamagie (Sort élémentaire — Électricité)
+* **Métamagie (Sort élémentaire — Feu)** : Métamagie (Sort élémentaire — Feu)
+* **Métamagie (Sort élémentaire — Froid)** : Métamagie (Sort élémentaire — Froid)
+* **Métamagie (Sort élémentaire)** : Métamagie (Sort élémentaire)
+* **Métamagie (Sort encourageant)** : Métamagie (Sort encourageant)
+* **Métamagie de prédilection — Sort brûlant** : Métamagie de prédilection — Sort brûlant
+* **Métamagie de prédilection — Sort éblouissant** : Métamagie de prédilection — Sort éblouissant
+* **Métamagie de prédilection — Sort élémentaire** : Métamagie de prédilection — Sort élémentaire
+* **Métamagie de prédilection — Sort gelé** : Métamagie de prédilection — Sort gelé
+* **Métamagie de prédilection — Sort persistant** : Métamagie de prédilection — Sort persistant
+* **Métamagie de prédilection — Sort sélectif** : Métamagie de prédilection — Sort sélectif
+* **Métamaîtrise arcanique — Extension de durée** : Métamaîtrise arcanique — Extension de durée
+* **Métamaîtrise arcanique — Extension d'effet** : Métamaîtrise arcanique — Extension d'effet
+* **Métamaîtrise arcanique — Incantation rapide** : Métamaîtrise arcanique — Incantation rapide
+* **Métamaîtrise arcanique — Ombres tangibles** : Métamaîtrise arcanique — Ombres tangibles
+* **Métamaîtrise arcanique — Sort brûlant** : Métamaîtrise arcanique — Sort brûlant
+* **Métamaîtrise arcanique — Sort éblouissant** : Métamaîtrise arcanique — Sort éblouissant
+* **Métamaîtrise arcanique — Sort éloigné** : Métamaîtrise arcanique — Sort éloigné
+* **Métamaîtrise arcanique — Sort encourageant** : Métamaîtrise arcanique — Sort encourageant
+* **Métamaîtrise arcanique — Sort gelé** : Métamaîtrise arcanique — Sort gelé
+* **Métamaîtrise arcanique — Sort persistant** : Métamaîtrise arcanique — Sort persistant
+* **Métamaîtrise arcanique — Sort renforcé** : Métamaîtrise arcanique — Sort renforcé
+* **Métamaîtrise arcanique — Sort sélectif** : Métamaîtrise arcanique — Sort sélectif
+* **Métamaîtrise arcanique — Sort transperçant** : Métamaîtrise arcanique — Sort transperçant
+* **Métamaîtrise arcanique supérieure** : Métamaîtrise arcanique supérieure
+* **Métamaîtrise arcanique** : Métamaîtrise arcanique
+* **Meta-Rage (Bolstered)** : Meta-Rage (Bolstered)
+* **Meta-Rage (Burning)** : Meta-Rage (Burning)
+* **Meta-Rage (Elemental — Acid)** : Meta-Rage (Elemental — Acid)
+* **Meta-Rage (Elemental — Cold)** : Meta-Rage (Elemental — Cold)
+* **Meta-Rage (Elemental — Electricity)** : Meta-Rage (Elemental — Electricity)
+* **Meta-Rage (Elemental — Fire)** : Meta-Rage (Elemental — Fire)
+* **Meta-Rage (Empower)** : Meta-Rage (Empower)
+* **Meta-Rage (Encouraging)** : Meta-Rage (Encouraging)
+* **Meta-Rage (Extend)** : Meta-Rage (Extend)
+* **Meta-Rage (Flaring)** : Meta-Rage (Flaring)
+* **Meta-Rage (Intensified)** : Meta-Rage (Intensified)
+* **Meta-Rage (Maximize)** : Meta-Rage (Maximize)
+* **Meta-Rage (Persistent)** : Meta-Rage (Persistent)
+* **Meta-Rage (Piercing)** : Meta-Rage (Piercing)
+* **Meta-Rage (Quicken)** : Meta-Rage (Quicken)
+* **Meta-Rage (Reach)** : Meta-Rage (Reach)
+* **Meta-Rage (Rime)** : Meta-Rage (Rime)
+* **Meta-Rage (Selective)** : Meta-Rage (Selective)
+* **Meta-Rage (Solid Shadows)** : Meta-Rage (Solid Shadows)
+* **Meta-Rage** : Meta-Rage
+* **Mithral** : Mithral
+* **Mobilité du cavalier** : Mobilité du cavalier
+* **Mobilité du commandeur divin** : Mobilité du commandeur divin
+* **Modificateurs de caractéristiques de gnome** : Modificateurs de caractéristiques de gnome
+* **Modificateurs de caractéristiques des elfes** : Modificateurs de caractéristiques des elfes
+* **Modificateurs de caractéristiques des nains** : Modificateurs de caractéristiques des nains
+* **Monture bénie — Céleste** : Monture bénie — Céleste
+* **Monture bénie — Entropique** : Monture bénie — Entropique
+* **Monture bénie — Fiélonne** : Monture bénie — Fiélonne
+* **Monture bénie — Résolue** : Monture bénie — Résolue
+* **Monture bénie** : Monture bénie
+* **Monture** : Monture
+* **Mounted Maniac** : Mounted Maniac
+* **Mounted Skirmisher** : Mounted Skirmisher
+* **Mouvement défendu** : Mouvement défendu
+* **Mutated Shape - Gore** : Mutated Shape - Gore
+* **Mutated Shape** : Mutated Shape
+* **Myrmidarch** : Myrmidarch
+* **Mystères divers** : Mystères divers
+* **Mythic Banner Area** : Mythic Banner Area
+* **Mythic Banner** : Mythic Banner
+* **Mythic Bond** : Mythic Bond
+* **Mythic Spell Combat** : Mythic Spell Combat
+* **Nature Fang** : Nature Fang
+* **Nature's Soul** : Nature's Soul
+* **Natures Whispers AC Conversion** : Natures Whispers AC Conversion
+* **Né de la fureur** : Né de la fureur
+* **Necrotic** : Necrotic
+* **Negative Energy Blocking** : Negative Energy Blocking
+* **Negative Energy Resistant** : Negative Energy Resistant
+* **Négociateur stoïque** : Négociateur stoïque
+* **Nine Tailed Heir Bloodline** : Nine Tailed Heir Bloodline
+* **Niveau factice d'entraînement de guerrier** : Niveau factice d'entraînement de guerrier
+* **Nosophobie** : Nosophobie
+* **Nullifying** : Nullifying
+* **Old Dog, New Tricks** : Old Dog, New Tricks
+* **Old Master** : Old Master
+* **Ombre Supérieure** : Ombre Supérieure
+* **Ombre** : Ombre
+* **OneHanded Toggle Feature** : OneHanded Toggle Feature
+* **Opposition Research — Abjuration** : Opposition Research — Abjuration
+* **Opposition Research — Conjuration** : Opposition Research — Conjuration
+* **Opposition Research — Divination** : Opposition Research — Divination
+* **Opposition Research — Enchantment** : Opposition Research — Enchantment
+* **Opposition Research — Evocation** : Opposition Research — Evocation
+* **Opposition Research — Illusion** : Opposition Research — Illusion
+* **Opposition Research — Necromancy** : Opposition Research — Necromancy
+* **Opposition Research — Transmutation** : Opposition Research — Transmutation
+* **Opposition Research** : Opposition Research
+* **Oversized** : Oversized
+* **Patron Capacité Requise** : Patron Capacité Requise
+* **Pendant la rage** : Pendant la rage
+* **Perfect Body, Flawless Mind** : Perfect Body, Flawless Mind
+* **Perfect Strike Upgrade** : Perfect Strike Upgrade
+* **Piercing** : Piercing
+* **Positive Energy Resistant** : Positive Energy Resistant
+* **Precision Critical** : Precision Critical
+* **Près du sol** : Près du sol
+* **Primalist Rage Power** : Primalist Rage Power
+* **Prouesse intimidante (Mythique)** : Prouesse intimidante (Mythique)
+* **Proxy** : Proxy
+* **Puissance de l'inconnu** : Puissance de l'inconnu
+* **Puissance en armure** : Puissance en armure
+* **Quick Channel** : Quick Channel
+* **Quick Draw** : Quick Draw
+* **Quicken Blessing — Air** : Quicken Blessing — Air
+* **Quicken Blessing — Animal** : Quicken Blessing — Animal
+* **Quicken Blessing — Artifice** : Quicken Blessing — Artifice
+* **Quicken Blessing — Chaos** : Quicken Blessing — Chaos
+* **Quicken Blessing — Charm** : Quicken Blessing — Charm
+* **Quicken Blessing — Community** : Quicken Blessing — Community
+* **Quicken Blessing — Darkness** : Quicken Blessing — Darkness
+* **Quicken Blessing — Death** : Quicken Blessing — Death
+* **Quicken Blessing — Destruction** : Quicken Blessing — Destruction
+* **Quicken Blessing — Earth** : Quicken Blessing — Earth
+* **Quicken Blessing — Evil** : Quicken Blessing — Evil
+* **Quicken Blessing — Fire** : Quicken Blessing — Fire
+* **Quicken Blessing — Glory** : Quicken Blessing — Glory
+* **Quicken Blessing — Good** : Quicken Blessing — Good
+* **Quicken Blessing — Healing** : Quicken Blessing — Healing
+* **Quicken Blessing — Knowledge** : Quicken Blessing — Knowledge
+* **Quicken Blessing — Law** : Quicken Blessing — Law
+* **Quicken Blessing — Luck** : Quicken Blessing — Luck
+* **Quicken Blessing — Magic** : Quicken Blessing — Magic
+* **Quicken Blessing — Nobility** : Quicken Blessing — Nobility
+* **Quicken Blessing — Plant** : Quicken Blessing — Plant
+* **Quicken Blessing — Protection** : Quicken Blessing — Protection
+* **Quicken Blessing — Repose** : Quicken Blessing — Repose
+* **Quicken Blessing — Rune** : Quicken Blessing — Rune
+* **Quicken Blessing — Scalykind** : Quicken Blessing — Scalykind
+* **Quicken Blessing — Sun** : Quicken Blessing — Sun
+* **Quicken Blessing — Travel** : Quicken Blessing — Travel
+* **Quicken Blessing — Trickery** : Quicken Blessing — Trickery
+* **Quicken Blessing — War** : Quicken Blessing — War
+* **Quicken Blessing — Water** : Quicken Blessing — Water
+* **Quicken Blessing — Weather** : Quicken Blessing — Weather
+* **Quicken Blessing** : Quicken Blessing
+* **Radiant** : Radiant
+* **Rage sanguine aberrante** : Rage sanguine aberrante
+* **Rage sanguine arcanique : Flou** : Rage sanguine arcanique : Flou
+* **Rage sanguine destinée** : Rage sanguine destinée
+* **Rang de maître de meute** : Rang de maître de meute
+* **Rang de maîtrise de la monte** : Rang de maîtrise de la monte
+* **Rapière** : Rapière
+* **Recharge de tombe de glace** : Recharge de tombe de glace
+* **Reflex negates** : Reflex negates
+* **Réflexe envoûtant** : Réflexe envoûtant
+* **Réflexes annule/Vigueur partiel** : Réflexes annule/Vigueur partiel
+* **Réflexes de combat (Mythique)** : Réflexes de combat (Mythique)
+* **Réflexes demi-dégâts** : Réflexes demi-dégâts
+* **Regard maudit** : Regard maudit
+* **Réserve magique de la lame noire** : Réserve magique de la lame noire
+* **Réservoir profond** : Réservoir profond
+* **Réservoir supplémentaire** : Réservoir supplémentaire
+* **Résistance à l'acide** : Résistance à l'acide
+* **Résistance à l'âge mineure** : Résistance à l'âge mineure
+* **Résistance à l'âge supérieure** : Résistance à l'âge supérieure
+* **Résistance à l'âge** : Résistance à l'âge
+* **Résistance à l'électricité** : Résistance à l'électricité
+* **Résistance aberrante** : Résistance aberrante
+* **Résistance au feu** : Résistance au feu
+* **Résistance au froid** : Résistance au froid
+* **Résistance aux énergies** : Résistance aux énergies
+* **Resolute Template** : Resolute Template
+* **Retribution** : Retribution
+* **Révélation supplémentaire** : Révélation supplémentaire
+* **Rime** : Rime
+* **Riving Strike** : Riving Strike
+* **Sabre dentelé** : Sabre dentelé
+* **Sacrificial** : Sacrificial
+* **Sage Bloodline** : Sage Bloodline
+* **Sagesse de la mante** : Sagesse de la mante
+* **Saignement** : Saignement
+* **Saint** : Saint
+* **Sands Of Time** : Sands Of Time
+* **Sanguin du destin** : Sanguin du destin
+* **Sanguin métamagique** : Sanguin métamagique
+* **Sans âge** : Sans âge
+* **Sceptre métamagique, brûlant mineur** : Sceptre métamagique, brûlant mineur
+* **Sceptre métamagique, brûlant supérieur** : Sceptre métamagique, brûlant supérieur
+* **Sceptre métamagique, brûlant** : Sceptre métamagique, brûlant
+* **Sceptre métamagique, de givre mineur** : Sceptre métamagique, de givre mineur
+* **Sceptre métamagique, de givre supérieur** : Sceptre métamagique, de givre supérieur
+* **Sceptre métamagique, de givre** : Sceptre métamagique, de givre
+* **Sceptre métamagique, d'encouragement mineur** : Sceptre métamagique, d'encouragement mineur
+* **Sceptre métamagique, d'encouragement** : Sceptre métamagique, d'encouragement
+* **Sceptre métamagique, éblouissant mineur** : Sceptre métamagique, éblouissant mineur
+* **Sceptre métamagique, éblouissant supérieur** : Sceptre métamagique, éblouissant supérieur
+* **Sceptre métamagique, éblouissant** : Sceptre métamagique, éblouissant
+* **Sceptre métamagique, élémentaire (acide)** : Sceptre métamagique, élémentaire (acide)
+* **Sceptre métamagique, élémentaire (feu)** : Sceptre métamagique, élémentaire (feu)
+* **Sceptre métamagique, élémentaire (froid)** : Sceptre métamagique, élémentaire (froid)
+* **Sceptre métamagique, intensifié mineur** : Sceptre métamagique, intensifié mineur
+* **Sceptre métamagique, intensifié supérieur** : Sceptre métamagique, intensifié supérieur
+* **Sceptre métamagique, intensifié** : Sceptre métamagique, intensifié
+* **Sceptre métamagique, perçant mineur** : Sceptre métamagique, perçant mineur
+* **Sceptre métamagique, perçant supérieur** : Sceptre métamagique, perçant supérieur
+* **Sceptre métamagique, perçant** : Sceptre métamagique, perçant
+* **Sceptre** : Sceptre
+* **Scholar** : Scholar
+* **Science de l'attaque naturelle** : Science de l'attaque naturelle
+* **Science du critique (Mythique)** : Science du critique (Mythique)
+* **Second Order** : Second Order
+* **Second Patron** : Second Patron
+* **Secured Armor** : Secured Armor
+* **Seeker Bloodline** : Seeker Bloodline
+* **Seen It Before** : Seen It Before
+* **Sélection d'armes de guerre** : Sélection d'armes de guerre
+* **Sélection du grimoire** : Sélection du grimoire
+* **Self-Sufficient** : Self-Sufficient
+* **Serpentine Bloodline** : Serpentine Bloodline
+* **Serviteur céleste** : Serviteur céleste
+* **Seul contre tous** : Seul contre tous
+* **Shadow Enchantment** : Shadow Enchantment
+* **Shadow Enchantment, Greater** : Shadow Enchantment, Greater
+* **Shatter Defenses (Mythic)** : Shatter Defenses (Mythic)
+* **Shattered Defenses (Mythic)** : Shattered Defenses (Mythic)
+* **Shattered Defenses** : Shattered Defenses
+* **Shield Mastery** : Shield Mastery
+* **Shingle Runner** : Shingle Runner
+* **Shocking** : Shocking
+* **Smite Chaos** : Smite Chaos
+* **Smite Evil** : Smite Evil
+* **Smite Good** : Smite Good
+* **Smite Law** : Smite Law
+* **Solid Shadows** : Solid Shadows
+* **Sonic Resistant** : Sonic Resistant
+* **Sorcière** : Sorcière
+* **Sort bonus — Agrandissement** : Sort bonus — Agrandissement
+* **Sort bonus — Bouclier** : Sort bonus — Bouclier
+* **Sort bonus — Déplacement** : Sort bonus — Déplacement
+* **Sort bonus — Détection de l'invisibilité** : Sort bonus — Détection de l'invisibilité
+* **Sort bonus — Flou** : Sort bonus — Flou
+* **Sort bonus — Liberté de mouvement** : Sort bonus — Liberté de mouvement
+* **Sort bonus — Pierres acérées** : Sort bonus — Pierres acérées
+* **Sort brûlant** : Sort brûlant
+* **Sort de druide — Arcaniste** : Sort de druide — Arcaniste
+* **Sort de druide — Barde** : Sort de druide — Barde
+* **Sort de druide — Chaman** : Sort de druide — Chaman
+* **Sort de druide — Chasseur** : Sort de druide — Chasseur
+* **Sort de druide — Ensorceleur** : Sort de druide — Ensorceleur
+* **Sort de druide — Inquisiteur** : Sort de druide — Inquisiteur
+* **Sort de druide — Magicien** : Sort de druide — Magicien
+* **Sort de druide — Magus** : Sort de druide — Magus
+* **Sort de druide — Oracle** : Sort de druide — Oracle
+* **Sort de druide — Paladin** : Sort de druide — Paladin
+* **Sort de druide — Prêtre combattant** : Sort de druide — Prêtre combattant
+* **Sort de druide — Prêtre** : Sort de druide — Prêtre
+* **Sort de druide — Rôdeur** : Sort de druide — Rôdeur
+* **Sort de druide — Roublard** : Sort de druide — Roublard
+* **Sort de druide — Sanguin** : Sort de druide — Sanguin
+* **Sort de druide — scalde** : Sort de druide — scalde
+* **Sort de druide — Sorcière** : Sort de druide — Sorcière
+* **Sort de magicien — Arcaniste** : Sort de magicien — Arcaniste
+* **Sort de magicien — Barde** : Sort de magicien — Barde
+* **Sort de magicien — Chaman** : Sort de magicien — Chaman
+* **Sort de magicien — Chasseur** : Sort de magicien — Chasseur
+* **Sort de magicien — Druide** : Sort de magicien — Druide
+* **Sort de magicien — Ensorceleur** : Sort de magicien — Ensorceleur
+* **Sort de magicien — Inquisiteur** : Sort de magicien — Inquisiteur
+* **Sort de magicien — Magicien** : Sort de magicien — Magicien
+* **Sort de magicien — Magus** : Sort de magicien — Magus
+* **Sort de magicien — Oracle** : Sort de magicien — Oracle
+* **Sort de magicien — Paladin** : Sort de magicien — Paladin
+* **Sort de magicien — Prêtre combattant** : Sort de magicien — Prêtre combattant
+* **Sort de magicien — Prêtre** : Sort de magicien — Prêtre
+* **Sort de magicien — Rôdeur** : Sort de magicien — Rôdeur
+* **Sort de magicien — Roublard** : Sort de magicien — Roublard
+* **Sort de magicien — Sanguin** : Sort de magicien — Sanguin
+* **Sort de magicien — scalde** : Sort de magicien — scalde
+* **Sort de magicien — Sorcière** : Sort de magicien — Sorcière
+* **Sort de prêtre — Arcaniste** : Sort de prêtre — Arcaniste
+* **Sort de prêtre — Barde** : Sort de prêtre — Barde
+* **Sort de prêtre — Chaman** : Sort de prêtre — Chaman
+* **Sort de prêtre — Chasseur** : Sort de prêtre — Chasseur
+* **Sort de prêtre — Druide** : Sort de prêtre — Druide
+* **Sort de prêtre — Ensorceleur** : Sort de prêtre — Ensorceleur
+* **Sort de prêtre — Inquisiteur** : Sort de prêtre — Inquisiteur
+* **Sort de prêtre — Magicien** : Sort de prêtre — Magicien
+* **Sort de prêtre — Magus** : Sort de prêtre — Magus
+* **Sort de prêtre — Oracle** : Sort de prêtre — Oracle
+* **Sort de prêtre — Paladin** : Sort de prêtre — Paladin
+* **Sort de prêtre — Prêtre combattant** : Sort de prêtre — Prêtre combattant
+* **Sort de prêtre — Rôdeur** : Sort de prêtre — Rôdeur
+* **Sort de prêtre — Roublard** : Sort de prêtre — Roublard
+* **Sort de prêtre — Sanguin** : Sort de prêtre — Sanguin
+* **Sort de prêtre — scalde** : Sort de prêtre — scalde
+* **Sort de prêtre — Sorcière** : Sort de prêtre — Sorcière
+* **Sort élémentaire divisé** : Sort élémentaire divisé
+* **Spécialisation en armure intermédiaire** : Spécialisation en armure intermédiaire
+* **Spécialisation en armure légère** : Spécialisation en armure légère
+* **Spécialisation en armure lourde** : Spécialisation en armure lourde
+* **Spécialisation en armure** : Spécialisation en armure
+* **Spectrale** : Spectrale
+* **Speed** : Speed
+* **Spell Blending (Double)** : Spell Blending (Double)
+* **Spell Blending (Single)** : Spell Blending (Single)
+* **Spell Blending** : Spell Blending
+* **Spell Resistant** : Spell Resistant
+* **Spellcurse** : Spellcurse
+* **Split Hex** : Split Hex
+* **Split Major Hex** : Split Major Hex
+* **Sprightly Armor** : Sprightly Armor
+* **Stalwart** : Stalwart
+* **Stat Increase** : Stat Increase
+* **Statistiques de base de la lame noire** : Statistiques de base de la lame noire
+* **Steel Headbutt Effect** : Steel Headbutt Effect
+* **Steel Headbutt** : Steel Headbutt
+* **Street Smarts** : Street Smarts
+* **Strength** : Strength
+* **Studied Target** : Studied Target
+* **Stumbling Bash** : Stumbling Bash
+* **Stunning Fist: Blind** : Stunning Fist: Blind
+* **Stunning Fist: Paralyze** : Stunning Fist: Paralyze
+* **Stunning Fist: Stagger** : Stunning Fist: Stagger
+* **Style de la mante** : Style de la mante
+* **Suppressed** : Suppressed
+* **Survivant discret** : Survivant discret
+* **Tacticien de bataille — Don bonus** : Tacticien de bataille — Don bonus
+* **Tacticien de bataille (Rapide)** : Tacticien de bataille (Rapide)
+* **Tacticien de bataille supérieur** : Tacticien de bataille supérieur
+* **Tacticien de bataille** : Tacticien de bataille
+* **Talent de roublard supplémentaire** : Talent de roublard supplémentaire
+* **Talent de tueur supplémentaire** : Talent de tueur supplémentaire
+* **Talent magistral** : Talent magistral
+* **Team Leader** : Team Leader
+* **Temporary Enhancement +1** : Temporary Enhancement +1
+* **Temporary Enhancement +2** : Temporary Enhancement +2
+* **Temporary Enhancement +3** : Temporary Enhancement +3
+* **Temporary Enhancement +4** : Temporary Enhancement +4
+* **Temporary Enhancement +5** : Temporary Enhancement +5
+* **Temporary Enhancement +6** : Temporary Enhancement +6
+* **Terrifying Tremble** : Terrifying Tremble
+* **Thundering** : Thundering
+* **Tir multiple (Mythique)** : Tir multiple (Mythique)
+* **Titan Strike** : Titan Strike
+* **Tombe de glace** : Tombe de glace
+* **Toppling Bash** : Toppling Bash
+* **Touch of Destiny** : Touch of Destiny
+* **Tourment de la mante** : Tourment de la mante
+* **Tower Shield Specialist** : Tower Shield Specialist
+* **Trained Grace** : Trained Grace
+* **Trained Throw** : Trained Throw
+* **Traits alternatifs** : Traits alternatifs
+* **Transfert d'énergie magique — Arcaniste** : Transfert d'énergie magique — Arcaniste
+* **Transfert d'énergie magique — Magus** : Transfert d'énergie magique — Magus
+* **Transfert d'énergie magique** : Transfert d'énergie magique
+* **Trick Riding Cooldown** : Trick Riding Cooldown
+* **Trick Riding** : Trick Riding
+* **Trompe-la-mort** : Trompe-la-mort
+* **Tueuse d'aberrations** : Tueuse d'aberrations
+* **Tueuse d'animaux** : Tueuse d'animaux
+* **Tueuse de créatures artificielles** : Tueuse de créatures artificielles
+* **Tueuse de créatures magiques** : Tueuse de créatures magiques
+* **Tueuse de dragons** : Tueuse de dragons
+* **Tueuse de fées** : Tueuse de fées
+* **Tueuse de géants** : Tueuse de géants
+* **Tueuse de gobelins** : Tueuse de gobelins
+* **Tueuse de lycanthropes** : Tueuse de lycanthropes
+* **Tueuse de morts-vivants** : Tueuse de morts-vivants
+* **Tueuse de plantes** : Tueuse de plantes
+* **Tueuse de vivants** : Tueuse de vivants
+* **Tueuse d'extérieurs bons** : Tueuse d'extérieurs bons
+* **Tueuse d'extérieurs chaotiques** : Tueuse d'extérieurs chaotiques
+* **Tueuse d'extérieurs loyaux** : Tueuse d'extérieurs loyaux
+* **Tueuse d'extérieurs mauvais** : Tueuse d'extérieurs mauvais
+* **Tueuse d'extérieurs neutres** : Tueuse d'extérieurs neutres
+* **Tueuse d'humanoïdes monstrueux** : Tueuse d'humanoïdes monstrueux
+* **Tueuse d'humanoïdes reptiliens** : Tueuse d'humanoïdes reptiliens
+* **Tueuse d'orques** : Tueuse d'orques
+* **Two-Weapon Defense (Mythic)** : Two-Weapon Defense (Mythic)
+* **Two-Weapon Defense** : Two-Weapon Defense
+* **Ultrasound** : Ultrasound
+* **Unbridled Power** : Unbridled Power
+* **Undead Bloodline** : Undead Bloodline
+* **Undersized Mount** : Undersized Mount
+* **Unholy** : Unholy
+* **Unique Bloodline** : Unique Bloodline
+* **Unnatural Cold** : Unnatural Cold
+* **Use Weapon One Handed** : Use Weapon One Handed
+* **Varisian Tattoo** : Varisian Tattoo
+* **Vast Explosions** : Vast Explosions
+* **Veteran of Endless War** : Veteran of Endless War
+* **Vicious** : Vicious
+* **Vigilance** : Vigilance
+* **Vigueur aberrante** : Vigueur aberrante
+* **Vigueur demi-dégâts** : Vigueur demi-dégâts
+* **Vitesse impossible** : Vitesse impossible
+* **Volonté annule l'étourdissement** : Volonté annule l'étourdissement
+* **Volonté annule** : Volonté annule
+* **Volonté, partiel** : Volonté, partiel
+* **Vorpal** : Vorpal
+* **Warrior Priest (Mythic)** : Warrior Priest (Mythic)
+* **Warrior Spirit** : Warrior Spirit
+* **Web Bolt** : Web Bolt
+* **Well-Prepared** : Well-Prepared
+* **Will half** : Will half
+* **Wisdom** : Wisdom
+* **Witch Patron** : Witch Patron
+* **Witch's Dance** : Witch's Dance
+* **Withering — Stolen Time** : Withering — Stolen Time
+* **Withering Cooldown** : Withering Cooldown
+* **Withering** : Withering
+* **Within Reach** : Within Reach
+* **Yuelral's Blessing** : Yuelral's Blessing
