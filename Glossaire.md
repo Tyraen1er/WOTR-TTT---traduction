@@ -27,18 +27,51 @@ Ce document sert de référence pour la traduction du mod Tabletop Tweaks (TTT) 
 Ce relevé a été généré automatiquement à partir des traductions déjà présentes dans les fichiers.
 
 
-* **1 day/level** : 1 jour/niveau
-* **1 minute/level** : 1 minute/niveau
-* **1 round/4 levels** : 1 round/4 niveaux
-* **1 round/5 levels** : 1 round/5 niveaux
-* **1 round/level or until discharged** : 1 round/niveau ou jusqu'à déchargement
-* **1 round/level** : 1 round/niveau
-* **1 round/mythic rank** : 1 round/grade mythique
-* **10 minutes/level** : 10 minutes/niveau
-* **24 Hours** : 24 heures
-* **24 hours** : 24 heures
-* **Aberrant Bloodline Arcana** : Lignage Aberrant Arcana
-* **Aberrant Bloodline Requisite Feature** : Capacité Requise Lignage Aberrant
+* **day** : jour
+* **minute** : minute
+* **until discharged** : jusqu'à déchargement
+* **level** : niveau
+* **mythic rank** : grade mythique
+* **Hours** : heures
+* **Feature** : Capacité
+* **Arcana** : Arcana
+* **Fortitude** : Vigueur
+* **Reflex** : Réflexes
+* **Will** : Volonté
+* **Resistance** : Résistance
+* **Greater** : Supérieure
+* **Lesser** : Mineure
+* **Saving throw / Save** : Jet de sauvegarde
+* **DC (Difficulty Class)** : DD (Degré de difficulté)
+* **AC (Armor Class)** : CA (Classe d'armure)
+* **Check** : Test (ex: Skill check = Test de compétence)
+* **Attack of Opportunity / AoO** : Attaque d'opportunité
+* **Damage Reduction (DR)** : Réduction de dégâts (RD)
+* **Hit Dice (HD)** : Dés de vie (DV)
+* **Melee** : Corps à corps
+* **Ranged** : À distance
+* **Target** : Cible
+* **Range** : Portée
+* **Caster Level (CL)** : Niveau de lanceur de sorts (NLS)
+* **Spell Resistance (SR)** : Résistance à la magie (RM)
+* **Feat** : Don
+* **Skill** : Compétence
+* **Trait** : Trait
+* **Spell** : Sort
+* **Bonus Spell** : Sort bonus
+* **Standard action** : Action simple
+* **Move action** : Action de mouvement
+* **Swift action** : Action rapide
+* **Free action** : Action gratuite
+* **Full-round action** : Action complexe
+* **Round** : Round
+* **Negates** : Annule (ex: Will negates -> Volonté annule)
+* **Partial** : Partiel (ex: Fortitude partial -> Vigueur, partiel)
+* **Half** : Demi-dégâts (ex: Reflex half -> Réflexes demi-dégâts)
+* **Immunity** : Immunité
+* **Disease** : Maladie
+* **Poison** : Poison
+* **Requisite Feature** : Capacité Requise
 * **Aberrant Bloodline** : Lignage Aberrant
 * **Aberrant Bloodrage** : Rage sanguine aberrante
 * **Aberrant Form** : Forme aberrante
