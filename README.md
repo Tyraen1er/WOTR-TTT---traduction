@@ -53,6 +53,6 @@ Auteur du mod original : Vek17
 
 Traduction : Tyraen1er
 
-Contributeur : LittleLazyGhost
+Contributeur : LittleLazyGhost (alias JuanFaDu)
 
 Sources : Owlcat Games, Black Book Editions (Pathfinder JdR).
