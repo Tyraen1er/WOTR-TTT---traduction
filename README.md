@@ -11,10 +11,21 @@ Ce projet propose une localisation française complète et rigoureuse pour le mo
   Via Modfinder : Faites un clic droit sur le mod -> Open Folder, puis ouvrez le sous-dossier Localization.
   
   Manuellement : ...\Pathfinder Wrath of the Righteous\Mods\TabletopTweaks-Base\Localization\
-  
-4- Remplacez le fichier LocalizationPack.json existant par celui-ci.
 
-5- Lancez le jeu.
+4- Renommez LocalizationPack.json en LocalizationPack.json.bak
+
+5- Placez le fichier LocalizationPack.json de cette traduction dans le même dossier.
+
+6- Lancez le jeu.
+
+# Désinstallation
+1- Rendez-vous dans le dossier d'installation du mod. (cf : Installation)
+
+2- Supprimez le fichier Localization.json
+
+3- Renommez LocalizationPack.json.bak en LocalizationPack.json
+
+4- C'est fait !
 
 # Philosophie de traduction
 La traduction a été réalisée via un processus hybride (automatisation + révision manuelle) avec une hiérarchie de priorité stricte pour garantir l'immersion :
