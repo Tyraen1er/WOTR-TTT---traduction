@@ -3615,7 +3615,7 @@
       "enGB": "There is a taint in your blood that is both alien and bizarre. When you bloodrage, this manifests in peculiar and terrifying ways.\nWhile bloodraging, you gain the abilities and immunities of some aberrations, but show signs of your tainted heritage.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Combat Reflexes, Great Fortitude, Improved Disarm, Improved Dirty Trick, Improved Initiative, Improved Unarmed Strike, Iron Will.\nBonus Spells: Enlarge Person (7th), See Invisibility (10th), Displacement (13th), Spike Stones (16th).",
       "ruRU": "В вашей крови есть зараза, одновременно чуждая и странная. Когда вы впадаете в ярость, это проявляется необычным и ужасающим образом.\nКогда вы находитесь в состоянии ярости наследия, вы получаете способности и устойчивость некоторых аберраций, но проявляете признаки своего испорченного наследия.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Дополнительные черты</link></color></b>: Боевые рефлексы, Внушительная стойкость, Разоружение+, Грязный трюк+, Улучшенная инициатива, Мастер кулачного боя, Железная воля.\nДополнительные заклинания: Увеличение гуманоида (7-й), Увидеть невидимое (10-й), Марево (13-й), Шипастые камни (16-й).",
       "deDE": null,
-      "frFR": "Il y a une souillure dans le sang du personnage qui est à la fois extraterrestre et bizarre. Lorsqu'il entre en rage sanguine, cela se manifeste de manières étranges et terrifiantes.\nPendant la rage sanguine, il gagne les capacités et les immunités de certaines aberrations, mais montre des signes de son héritage souillé.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Dons bonus</link></color></b> : Réflexes de combat, Vigueur surhumaine, Science du désarmement, Science de la manœuvre déloyale, Science de l'initiative, Science du combat à mains nues, Volonté de fer.\nSorts bonus : Agrandissement (7e), Détection de l'invisibilité (10e), Déplacement (13e), Pierres acérées (16e).",
+      "frFR": "Il y a une souillure dans le sang du personnage qui est à la fois extraterrestre et bizarre. Lorsqu'il entre en rage sanguine, cela se manifeste de manières étranges et terrifiantes.\nPendant la rage sanguine, il gagne les capacités et les immunités de certaines aberrations, mais montre des signes de son héritage souillé.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Dons bonus</link></color></b> : Attaques réflexes, Vigueur surhumaine, Science du désarmement, Science de la manœuvre déloyale, Science de l'initiative, Science du combat à mains nues, Volonté de fer.\nSorts bonus : Agrandissement (7e), Détection de l'invisibilité (10e), Déplacement (13e), Pierres acérées (16e).",
       "zhCN": "你的血液中蕴含着外来者和异怪的污染。当你处于血承狂暴时，这些污染会以异常而可怕的方式显现出来。\n{g|Encyclopedia:Bonus}额外{/g}专长：战斗反射、顽石强韧、精通徒手击打、精通阴招、精通先攻、精通缴械、钢铁意志。\n额外法术：变巨术（7级）、识破隐形（11级）、移位术（13级）、岩刺（16级）。",
       "esES": null
     },
@@ -3637,7 +3637,7 @@
       "enGB": "Bonus Feats: Combat Reflexes, Great Fortitude, Improved Disarm, Improved Dirty Trick, Improved Initiative, Improved Unarmed Strike, Iron Will.",
       "ruRU": "Дополнительные черты наследия аберраций: Боевые рефлексы, Внушительная стойкость, Разоружение, Грязный трюк, Улучшенная инициатива, Мастер кулачного боя, Железная воля.",
       "deDE": null,
-      "frFR": "Dons bonus : Réflexes de combat, Vigueur surhumaine, Science du désarmement, Science de la manœuvre déloyale, Science de l'initiative, Science du combat à mains nues, Volonté de fer.",
+      "frFR": "Dons bonus : Attaques réflexes, Vigueur surhumaine, Science du désarmement, Science de la manœuvre déloyale, Science de l'initiative, Science du combat à mains nues, Volonté de fer.",
       "zhCN": "额外专长：战斗反射、顽石强韧、精通徒手击打、精通阴招、精通先攻、精通缴械、钢铁意志。",
       "esES": null
     },
@@ -5012,7 +5012,7 @@
       "enGB": "Combat Reflexes (Mythic)",
       "ruRU": "Боевые рефлексы (мифические)",
       "deDE": null,
-      "frFR": "Réflexes de combat (Mythique)",
+      "frFR": "Attaques réflexes (Mythique)",
       "zhCN": "战斗反射（神话）",
       "esES": null
     },
@@ -5111,7 +5111,7 @@
       "enGB": "Critical Focus (Mythic)",
       "ruRU": "Критическая точность (мифическая)",
       "deDE": null,
-      "frFR": "Science du critique (Mythique)",
+      "frFR": "Don pour les critiques (Mythique)",
       "zhCN": "重击专攻（神话）",
       "esES": null
     },
@@ -5221,7 +5221,7 @@
       "enGB": "Defended Movement",
       "ruRU": "Движение под щитом",
       "deDE": null,
-      "frFR": "Mouvement défendu",
+      "frFR": "Déplacement couvert",
       "zhCN": "谨慎移动",
       "esES": null
     },
@@ -8444,7 +8444,7 @@
       "enGB": "Intense Blows",
       "ruRU": "Напористые удары",
       "deDE": null,
-      "frFR": "Frappes intenses",
+      "frFR": "Coups appuyés",
       "zhCN": "强力冲击",
       "esES": null
     },
@@ -13097,7 +13097,7 @@
       "enGB": "Secured Armor",
       "ruRU": "Надёжная броня",
       "deDE": null,
-      "frFR": "Armure impénétrable",
+      "frFR": "Armure consolidée",
       "zhCN": "护心盔甲",
       "esES": null
     },
@@ -14230,7 +14230,7 @@
       "enGB": "Sprightly Armor",
       "ruRU": "Шустрая броня",
       "deDE": null,
-      "frFR": "Armure sémillante",
+      "frFR": "Armure alerte",
       "zhCN": "轻快盔甲",
       "esES": null
     },
@@ -14373,7 +14373,7 @@
       "enGB": "Stumbling Bash",
       "ruRU": "Сбивающий удар щитом",
       "deDE": null,
-      "frFR": "Coup de bouclier déstabilisant",
+      "frFR": "Coup de bouclier déséquilibrant",
       "zhCN": "衰弱盾击",
       "esES": null
     },
