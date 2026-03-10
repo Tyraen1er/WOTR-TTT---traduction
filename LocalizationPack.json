@@ -183,7 +183,7 @@
       "enGB": "Your mastery of magic allows you to more readily duplicate spells of other classes.\nBenefit: You can use Spell Kenning a number of additional times per day equal to one third your mythic rank.",
       "ruRU": "Ваше колдовское мастерство позволяет вам копировать заклинания других классов с большей лёгкостью.\nПреимущество: Вы можете применять колдовскую метафору дополнительное число раз в день, равном одной трети вашего мифического уровня.",
       "deDE": null,
-      "frFR": "La maitrise de la magie du personnage lui permet de dupliquer plus aisément les sorts d'autres classes.\nAvantage : chaque jour, il peut utiliser cette capacité un nombre de fois supplémentaires égal à un tiers de son grade mythique.",
+      "frFR": "La maîtrise de la magie du personnage lui permet de dupliquer plus aisément les sorts d'autres classes.\nAvantage : chaque jour, il peut utiliser cette capacité un nombre de fois supplémentaires égal à un tiers de son grade mythique.",
       "zhCN": "你对魔法的掌控使你可以更多地复制其他职业的法术。\n效果：你每日的法术认知使用次数增加等同于你神话阶层的1/3的数量。",
       "esES": null
     },
@@ -1272,7 +1272,7 @@
       "enGB": "Armored Might",
       "ruRU": "Мощь брони",
       "deDE": null,
-      "frFR": "Puissance en armure",
+      "frFR": "Puissance cuirassée",
       "zhCN": "装甲之力",
       "esES": null
     },
@@ -4077,7 +4077,7 @@
       "enGB": "Your bloodline is destined for great things. When you bloodrage, you exude a greatness that makes all but the most legendary creatures seem lesser.\nYour future greatness grants you the might to strike your enemies with awe.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Bonus</link></color></b> Feats: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Sieze The Moment, Lightning Reflexes, Weapon Focus.\nBonus Spells: Shield (7th), Blur (10th), Protection From Energy (13th), Freedom Of Movement (16th).",
       "ruRU": "Вашей родословной предначертано вершить великие дела. Когда вы впадаете в ярость наследия, вы излучаете величие, на фоне которого все существа, кроме самых легендарных, кажутся незначительными.\nВаше будущее величие дает вам силу повергать врагов в трепет.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Дополнительные черты</link></color></b>: Крепкий орешек, Двужильный, Улучшенная инициатива, Внушительный вид, Поймать момент, Молниеносная реакция, Уверенное владение оружием.\nДополнительные заклинания: Щит (7-й), Расплывчатость (10-й), Защита от стихии (13-й), Свобода движений (16-й).",
       "deDE": null,
-      "frFR": "Le lignage du personnage est destiné à de grandes choses. Lorsqu'il entre en rage sanguine, il dégage une grandeur qui rend même les créatures les plus légendaires mineures et affaiblies.\nSa grandeur à venir lui accorde la puissance de frapper ses ennemis de stupeur.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Dons bonus</link></color></b> : Dur à cuire, Endurance, Science de l'initiative, Prouesse intimidante, Saisir l'opportunité, Réflexes éclair, Arme de prédilection.\nSorts bonus : Bouclier (7e), Flou (10e), Protection contre les énergies destructives (13e), Liberté de mouvement (16e).",
+      "frFR": "Le lignage du personnage est destiné à de grandes choses. Lorsqu'il entre en rage sanguine, il dégage une grandeur qui rend même les créatures les plus légendaires mineures et affaiblies.\nSa grandeur à venir lui accorde la puissance de frapper ses ennemis de stupeur.\n<b><color=#703565><link=\"Encyclopedia:Bonus\">Dons bonus</link></color></b> : Dur à cuire, Endurance, Science de l'initiative, Force intimidante, Saisir l'opportunité, Réflexes éclair, Arme de prédilection.\nSorts bonus : Bouclier (7e), Flou (10e), Protection contre les énergies destructives (13e), Liberté de mouvement (16e).",
       "zhCN": "血脉中的某种力量使你命中注定会成就伟业。当你处于血承狂暴时，身上所散发出的伟大气息能够让除了传奇生物以外的所有生物显得渺小而平凡，你未来的伟大赐予你令对手拜服的力量。\n{g|Encyclopedia:Bonus}额外{/g}专长：顽强、坚韧、精通先攻、威逼、抓准时机、闪电反射、武器专攻。\n额外法术：护盾术（7级）、朦胧术（11级）、防护能量（13级）、行动自如（16级）。",
       "esES": null
     },
@@ -4165,7 +4165,7 @@
       "enGB": "Bonus Feats: Diehard, Endurance, Improved Initiative, Intimidating Prowess, Sieze The Moment, Lightning Reflexes, Weapon Focus.",
       "ruRU": "Дополнительные черты: Крепкий орешек, Двужильный, Улучшенная инициатива, Внушительный вид, Поймать момент, Молниеносная реакция, Уверенное владение оружием.",
       "deDE": null,
-      "frFR": "Dons bonus : Dur à cuire, Endurance, Science de l'initiative, Prouesse intimidante, Saisir l'opportunité, Réflexes éclair, Arme de prédilection.",
+      "frFR": "Dons bonus : Dur à cuire, Endurance, Science de l'initiative, Force intimidante, Saisir l'opportunité, Réflexes éclair, Arme de prédilection.",
       "zhCN": "额外专长：顽强、坚韧、精通先攻、威逼、抓准时机、闪电反射、武器专攻。",
       "esES": null
     },
@@ -6530,7 +6530,7 @@
       "enGB": "Arcane Focus",
       "ruRU": "Уверенное сотворение заклинаний",
       "deDE": null,
-      "frFR": "Focalisation profane",
+      "frFR": "Magicien prédestiné",
       "zhCN": "奥术专攻",
       "esES": null
     },
@@ -6596,7 +6596,7 @@
       "enGB": "Moonkissed",
       "ruRU": "Поцелованный луной",
       "deDE": null,
-      "frFR": "Baiser de la lune",
+      "frFR": "Touché par la lune",
       "zhCN": "月吻者",
       "esES": null
     },
@@ -6882,7 +6882,7 @@
       "enGB": "Erastil's Blessing",
       "ruRU": "Благословение Эрастила",
       "deDE": null,
-      "frFR": "Bénédiction d'Erastil",
+      "frFR": "Bénédiction d'Érastil",
       "zhCN": "猎手祝福",
       "esES": null
     },
@@ -7817,7 +7817,7 @@
       "enGB": "Great Beast",
       "ruRU": "Великий зверь",
       "deDE": null,
-      "frFR": "Bête supérieure",
+      "frFR": "Bête suprême",
       "zhCN": "伟兽",
       "esES": null
     },
@@ -8015,7 +8015,7 @@
       "enGB": "Harmonious Mage",
       "ruRU": "Гармоничный маг",
       "deDE": null,
-      "frFR": "Mage harmonieux",
+      "frFR": "Magie harmonieuse",
       "zhCN": "协调法师",
       "esES": null
     },
@@ -8279,7 +8279,7 @@
       "enGB": "Impossible Blessing",
       "ruRU": "Невозможное благословение",
       "deDE": null,
-      "frFR": "Bénédiction impossible",
+      "frFR": "Bénédiction de l'impossible",
       "zhCN": "奇迹祝福",
       "esES": null
     },
@@ -8301,7 +8301,7 @@
       "enGB": "Impossible Speed",
       "ruRU": "Невозможная скорость",
       "deDE": null,
-      "frFR": "Vitesse impossible",
+      "frFR": "Vitesse de l'impossible",
       "zhCN": "非凡神速",
       "esES": null
     },
@@ -8510,7 +8510,7 @@
       "enGB": "Intimidating Prowess (Mythic)",
       "ruRU": "Внушительный вид (мифический)",
       "deDE": null,
-      "frFR": "Prouesse intimidante (Mythique)",
+      "frFR": "Force intimidante (Mythique)",
       "zhCN": "威逼（神话）",
       "esES": null
     },
@@ -9401,7 +9401,7 @@
       "enGB": "You have learned to target vital areas with crippling accuracy.\nYou gain one additional Stunning Fist attempt per day. While using this style, you gain a +2 bonus to the DC of effects you deliver with your Stunning Fist.",
       "ruRU": "Вы научились целиться в жизненно важные органы противника с калечащей точностью.\nВы получаете дополнительное ежедневное применение Шокирующего кулака. При использовании этого стиля вы получаете бонус +2 к сложности эффектов, вызываемых шокирующим кулаком.",
       "deDE": null,
-      "frFR": "Vous avez appris à viser les points vitaux avec une précision paralysante.\nVous gagnez une utilisation quotidienne supplémentaire de Frappe étourdissante. Lorsque vous utilisez ce style, vous bénéficiez d'un bonus de +2 au DD des effets que vous appliquez par le biais de Frappe étourdissante.",
+      "frFR": "Vous avez appris à viser les points vitaux avec une précision paralysante.\nVous gagnez une utilisation quotidienne supplémentaire de Frappe étourdissante. Lorsque vous utilisez cette école, vous bénéficiez d'un bonus de +2 au DD des effets que vous appliquez par le biais de Frappe étourdissante.",
       "zhCN": "你的攻击直至要害。\n你的震慑拳获得额外1次每日使用次数。当你使用螳螂拳流派架势时，目标对抗你的震慑拳造成的效果的豁免{g|Encyclopedia:DC}难度等级{/g}+2。",
       "esES": null
     },
@@ -9412,7 +9412,7 @@
       "enGB": "Mantis Style",
       "ruRU": "Стиль богомола",
       "deDE": null,
-      "frFR": "Style de la mante",
+      "frFR": "École de la Mante",
       "zhCN": "螳螂拳",
       "esES": null
     },
@@ -9423,7 +9423,7 @@
       "enGB": "While using this style, you gain a +2 bonus to the DC of effects you deliver with your Stunning Fist.",
       "ruRU": "При использовании этого стиля вы получаете бонус +2 к сложности эффектов, вызываемых Шокирующим кулаком.",
       "deDE": null,
-      "frFR": "Lorsque vous utilisez ce style, vous bénéficiez d'un bonus de +2 au DD des effets que vous appliquez par le biais de Frappe étourdissante.",
+      "frFR": "Lorsque vous utilisez cette école, vous bénéficiez d'un bonus de +2 au DD des effets que vous appliquez par le biais de Frappe étourdissante.",
       "zhCN": "当你使用螳螂拳流派架势时，目标对抗你的震慑拳造成的效果的豁免{g|Encyclopedia:DC}难度等级{/g}+2。",
       "esES": null
     },
@@ -9434,7 +9434,7 @@
       "enGB": "Mantis Torment",
       "ruRU": "Мучающий богомол",
       "deDE": null,
-      "frFR": "Tourment de la mante",
+      "frFR": "Tourment de la Mante",
       "zhCN": "螳螂铁刺",
       "esES": null
     },
@@ -9445,7 +9445,7 @@
       "enGB": "Your knowledge of the mysteries of anatomy allows you to cause debilitating pain with a simple touch.\nYou gain one additional Stunning Fist attempt per day. While using Mantis Style, you make an unarmed attack that expends two daily attempts of your Stunning Fist. If you hit, your opponent must succeed at a saving throw against your Stunning Fist or become dazzled and staggered with crippling pain until the start of your next turn, and at that point the opponent becomes fatigued.",
       "ruRU": "Ваши познания в строении тела позволяют вам вызывать у цели неописуемые страдания одним прикосновением.\nВы получаете дополнительное ежедневное использование Шокирующего кулака. При использовании Стиля богомола, вы можете совершить безоружную атаку, которая расходует два использования Шокирующего кулака. Если атака попадает по цели, она должна совершить удачный спасбросок против Шокирующего кулака или оказаться растерянной и ошеломлённой до начала вашего следующего хода из-за невыносимой боли, после чего остаётся обессиленной.",
       "deDE": null,
-      "frFR": "Votre connaissance des mystères de l'anatomie vous permet de causer une douleur affaiblissante d'un simple toucher.\nVous gagnez une utilisation quotidienne supplémentaire de Frappe étourdissante. En combat à mains nues, lorsque vous utilisez Style de la mante, il vous est possible de dépenser deux utilisations quotidiennes de Frappe étourdissante sur une même attaque. Si vous touchez, votre adversaire doit réussir un jet de sauvegarde contre votre Frappe étourdissante ou être ébloui et chancelant de douleur affaiblissante jusqu'au début de votre prochain tour de jeu, au moment duquel il sera fatigué.",
+      "frFR": "Votre connaissance des mystères de l'anatomie vous permet de causer une douleur affaiblissante d'un simple toucher.\nVous gagnez une utilisation quotidienne supplémentaire de Frappe étourdissante. En combat à mains nues, lorsque vous utilisez l'École de la mante, il vous est possible de dépenser deux utilisations quotidiennes de Frappe étourdissante sur une même attaque. Si vous touchez, votre adversaire doit réussir un jet de sauvegarde contre votre Frappe étourdissante ou être ébloui et chancelant de douleur affaiblissante jusqu'au début de votre prochain tour de jeu, au moment duquel il sera fatigué.",
       "zhCN": "你掌握的神秘解剖知识使你只需简单触碰就能使敌人遭受莫大的痛苦。\n你的震慑拳获得额外1次每日使用次数。当你使用螳螂拳流派架势时，你可以消耗2次震慑拳每日使用次数进行一次徒手击打，若命中且对手豁免失败，在你下一回合开始前，对手会因剧痛而陷入目眩和恍惚状态；在你下一轮开始后，对手变为疲劳状态。",
       "esES": null
     },
@@ -9467,7 +9467,7 @@
       "enGB": "Your knowledge of vital areas allows you to land debilitating strikes with precision.\nTreat half your levels in classes other than monk as monk levels for determining effects you can apply to a target of your Stunning Fist per the Stunning Fist monk class feature. While using Mantis Style, you gain a +2 bonus on unarmed attack rolls with which you are using Stunning Fist attempts.",
       "ruRU": "Ваше знание жизненно важных зон противника позволяет вам с безупречной точностью наносить калечащие удары.\nСчитайте свои уровни в классах отличных от Монаха уровнями Монаха при определении эффектов, которые вы можете применить к цели, используя Шокирующий кулак. При использовании Стиля богомола, вы получаете бонус +2 к броскам на попадание безоружными атаками во время использования Шокирующего кулака.",
       "deDE": null,
-      "frFR": "Votre connaissance des points vitaux vous permet de porter des coups affaiblissants avec précision.\nLa moitié de vos niveaux dans des classes autres que le moine s'ajoute à vos niveaux de moine pour déterminer les effets que vous pouvez appliquer aux cibles de Frappe étourdissante via l'aptitude de classe du même nom du moine. En utilisant Style de la mante, vous bénéficiez d'un bonus de +2 aux jets d'attaque à mains nues en utilisant Frappe étourdissante.",
+      "frFR": "Votre connaissance des points vitaux vous permet de porter des coups affaiblissants avec précision.\nLa moitié de vos niveaux dans des classes autres que le moine s'ajoute à vos niveaux de moine pour déterminer les effets que vous pouvez appliquer aux cibles de Frappe étourdissante via l'aptitude de classe du même nom du moine. En utilisant l'École de la Mante, vous bénéficiez d'un bonus de +2 aux jets d'attaque à mains nues en utilisant Frappe étourdissante.",
       "zhCN": "你的出拳无比精准，招招奔向要害。\n你可以将你的非武僧等级的一半加上你的武僧等级来决定你的震慑拳效果。当你使用螳螂拳流派架势时，你的震慑拳的攻击检定获得+2加值。",
       "esES": null
     },
@@ -9478,7 +9478,7 @@
       "enGB": "Mantis Wisdom",
       "ruRU": "Мудрость богомола",
       "deDE": null,
-      "frFR": "Sagesse de la mante",
+      "frFR": "Sagesse de la Mante",
       "zhCN": "六合拳劲",
       "esES": null
     },
@@ -9500,7 +9500,7 @@
       "enGB": "Manyshot (Mythic)",
       "ruRU": "Залп (Мифический)",
       "deDE": null,
-      "frFR": "Tir multiple (Mythique)",
+      "frFR": "Feu nourri (Mythique)",
       "zhCN": "多重射击（神话）",
       "esES": null
     },
@@ -11777,7 +11777,7 @@
       "enGB": "Old Dog, New Tricks",
       "ruRU": "Старая собака, новые трюки",
       "deDE": null,
-      "frFR": "Vieux singe, nouveaux tours",
+      "frFR": "Vieux briscard, nouvelles ruses",
       "zhCN": "推陈出新",
       "esES": null
     },
@@ -11788,7 +11788,7 @@
       "enGB": "Old Master",
       "ruRU": "Старый мастер",
       "deDE": null,
-      "frFR": "Vieux maître",
+      "frFR": "Vénérable maître",
       "zhCN": "宗师",
       "esES": null
     },
